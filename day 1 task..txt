@@ -1,0 +1,30 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+           	
+  HTTP 1.1	         
+IT WORKS ON THE TEXTUAL FORMAT
+
+THERE IS THE HEAD OF LINE BLOCKING THAT BLOCKS ALL THE REQUEST BEHIND IT UNTILLIT DOESN’T GET ITS ALL RESOURCES
+
+IT COMPRESS DATA BY IT SELF	
+
+ HTTP2
+IT WORKS ON THE BINARY PROTOCOL
+
+IT ALLOWS IN MULTIPLEXING SO ONE TCP CONNECTION IS REQUIRED FOR MULTIPLE REQUEST
+
+IT USES HPACK FOR DATA COMPRESSION
+	
+
+
+
+2. Write a blog about objects and its internal representation in Javascript
+
+Objects can contain many values. Object values are written as name: value pairs (name and value separated by a colon).For example bike is object and its internal representation is( identify)  unique bikename and bike colour(state) and drive, brake, acceleration(behaviour).
+
+
+3. Read about IP address, port, HTTP methods, MAC address
+An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet. An IP address definition is a numeric label assigned to devices that use the internet to communicate.
+A port is a virtual point where network connections start and end. Ports are software-based and managed by a computer's operating system. Each port is associated with a specific process or service.
+
+Http method are get,head,post,put,delete,connect,option,trace,patch.
+A MAC address media access control address is a 12-digit hexadecimal number assigned to each device connected to the network. Primarily specified as a unique identifier during device manufacturing, the MAC address is often found on a device's network interface card .
